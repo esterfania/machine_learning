@@ -1,4 +1,4 @@
-# machine_learning
+# Machine learning
 
 (1) Pesquise e selecione uma coleção (https://archive.ics.uci.edu/ , https://www.kaggle.com/ , outra fonte de sua escolha desde que coloque a referência)
 
